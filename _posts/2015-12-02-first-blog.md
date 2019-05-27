@@ -5,7 +5,7 @@ subtitle:   "一打开R就自动默认加载"
 categories : [R]
 tags : [Misc]
 date:       2015-12-02
-author:     "Bruce"
+author:     "Eric.x"
 header-img: "/img/post/firstblog-bg.jpg"
 description: 第一篇blog，关于配置R中的启动变量。
 ---
@@ -96,5 +96,3 @@ loaded via a namespace (and not attached):
 - 用R生成中文PDF
 - 用R生成中文beamer
 - 可视化专场
-
-干货多多，欢迎大家RSS我的blog。需要拍砖的请在下面`多说`区域评论,可以采用访客模式，但是还是建议去注册一个账号再来评论，支持主流社交账号。
