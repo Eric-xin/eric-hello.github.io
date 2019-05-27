@@ -58,10 +58,19 @@ duoshuo_username: Eric.x
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 url: "http://eric-hello.github.io" 
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  repo: eric-xin.github    #仓库名称
+  owner: eric-xin    #github用户名
+  admin: [eric-xin,eric-haha,eric-hello]
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 # page Sidebar settings
 sidebar-about-description: "A future technique geek."
 sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
-
 
 
 # Friends
