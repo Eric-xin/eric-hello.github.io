@@ -6,7 +6,7 @@ categories : [tech]
 tags : [tech]
 date:       2019-05-25
 author:     "Eric.x"
-header-img: "/img/post/firstblog-bg.jpg"
+header-img: "/img/post/huawei.jpeg"
 description: "关于华为的未来预测"
 ---
 
