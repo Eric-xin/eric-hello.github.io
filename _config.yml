@@ -16,7 +16,7 @@ gems:
   - jekyll-feed
 
 # 国内用多说
-# disqus: brucezhaor
+ disqus: Eric.x
 
 #Google Analytics https://developers.google.com/analytics/devguides/collection/analyticsjs/
 #去_layout/default.html的头文件中去设置.
@@ -46,7 +46,7 @@ github_username:    haha
 google_username:  101167914127123982138/posts
 RSS: feed.xml
 email: doreanmon@yahoo.com
-linkedin: brucezhaor
+linkedin: Eric.x
 
 anchorjs: true                          # 修改在default.html->footer
 
@@ -55,18 +55,8 @@ anchorjs: true                          # 修改在default.html->footer
 # Duoshuo settings
 duoshuo_username: Eric.x
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 url: "http://eric-hello.github.io" 
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: eric-xin.github    #仓库名称
-  owner: eric-xin    #github用户名
-  admin: [eric-xin,eric-haha,eric-hello]
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # page Sidebar settings
 sidebar-about-description: "A future technique geek."
@@ -78,7 +68,7 @@ friends: [
 	{
         title: "Hux",
         href: "https://github.com/Huxpro/huxpro.github.io"
-	}
+	};
 ]
 
 
