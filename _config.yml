@@ -67,8 +67,8 @@ sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 friends: [
 	{
         title: "Hux",
-        href: "https://github.com/Huxpro/huxpro.github.io"
-	};
+        href: "https://github.com/Huxpro/huxpro.github.io",
+	}
 ]
 
 
