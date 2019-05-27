@@ -82,9 +82,3 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
 \\[ f(x,y,z) = 3y^2 z \left( 3 + \frac{7x+5}{1 + y^2} \right). \\]
 
 ### **炫酷吗** 右键选择 Math Settings -> zoom trigger -> click 点击就能放大公式了。
-
-## 最后
-
-欢迎大家在下面的多说评论框拍砖以及分享，支持各种主流社交账号登陆。虽然界面相比之前的disqus丑了一点，但是毕竟在国内，你懂的。想知道disqus的界面的同学请点击  <a target="_blank" href="http://brucezhaor.github.io/about.html">这里</a>
-
-
