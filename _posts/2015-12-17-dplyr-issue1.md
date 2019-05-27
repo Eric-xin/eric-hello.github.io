@@ -6,7 +6,7 @@ category : R
 tags : [dplyr,DataBase,RSQLite]
 layout: post
 date:       2015-12-17
-author:     "Bruce Zhao"
+author:     "Eric.x"
 header-img: "/img/post/dplyr1-bg.jpg"
 description:  使用dplyr包和RSQLite包实现数据库的连接与管理，轻松处理百M级别数据；数据乱码源头解决方案——readr。
 ---
