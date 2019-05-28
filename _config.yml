@@ -65,10 +65,19 @@ sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 
 # Friends
 friends: [
-	{
-        title: "Hux",
-        href: "https://github.com/Huxpro/huxpro.github.io",
-	}
+    {
+        title: "Eric.x",
+        href: "http://eric-xin.github.io"
+    },{
+        title: "A very Good Blog",
+        href: "http://eric-haha.github.io"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Music",
+        href: "https://eric-hehe.github.io"
+    }
 ]
 
 
